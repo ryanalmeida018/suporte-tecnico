@@ -26,11 +26,10 @@ Configuração do usuário.
 Configuração de idioma e região.
 Verificação das atualizações.
 Configuração das principais opções do sistema.
-🖼️ Print
 
-Inserir aqui o print da configuração inicial.
+🖼️ Demostração
 
-[ PRINT AQUI ]
+![Instalação do Windows](../imagens/instalacao-windows.png)
 
 4. Instalação de drivers
 
@@ -41,11 +40,10 @@ Verificação dos dispositivos.
 Identificação de drivers ausentes.
 Instalação e atualização dos drivers.
 Teste dos dispositivos.
-🖼️ Print
 
-Inserir aqui um print do Gerenciador de Dispositivos ou da instalação dos drivers.
+🖼️ Demostração
 
-[ PRINT AQUI ]
+![Instalação do Windows](../imagens/instalacao-windows.png)
 
 5. Instalação de softwares
 
