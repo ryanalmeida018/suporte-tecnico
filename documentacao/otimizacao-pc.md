@@ -24,33 +24,27 @@ Programas iniciados com o Windows.
 
 3. Limpeza e organização
 
-São realizadas verificações para identificar arquivos temporários e outros elementos desnecessários que possam ocupar espaço no armazenamento.
+São realizadas verificações para identificar arquivos temporários que existe nas pastas %temp%, temp, prefetch e outros elementos desnecessários que possam ocupar espaço no armazenamento.
 
-🖼️ Print
+🖼️ Demonstração
 
-Inserir aqui um print da ferramenta utilizada para limpeza/armazenamento.
+![Otimizacao do Windows](../imagens/%temp%.png)
+![Otimizacao do Windows](../imagens/temp.png)
+![Otimizacao do Windows](../imagens/prefetch.png)
 
-[ PRINT AQUI ]
 
 4. Atualizações
 
 É realizada a verificação das atualizações disponíveis para o sistema operacional e, quando necessário, para drivers e softwares.
 
-🖼️ Print
+🖼️ Demonstração
 
-Inserir aqui um print do Windows Update ou da ferramenta utilizada.
-
-[ PRINT AQUI ]
+![Otimizacao do Windows](../imagens/windows-update.png)
 
 5. Verificação após a otimização
 
 Após os procedimentos, são realizados novos testes para verificar o comportamento do computador.
 
-🖼️ Print
-
-Inserir aqui um print mostrando o desempenho após a otimização.
-
-[ PRINT AQUI ]
 
 ✅ Resultado
 
