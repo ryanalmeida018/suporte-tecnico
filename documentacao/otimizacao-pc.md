@@ -28,7 +28,7 @@ São realizadas verificações para identificar arquivos temporários que existe
 
 🖼️ Demonstração
 
-![Otimizacao do Windows](../imagens/%temp%.png)
+![Otimizacao do Windows](../imagens/-temp-.png)
 ![Otimizacao do Windows](../imagens/temp.png)
 ![Otimizacao do Windows](../imagens/prefetch.png)
 
