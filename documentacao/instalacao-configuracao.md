@@ -13,7 +13,7 @@ Seleção das opções de instalação.
 Configuração das partições quando necessário.
 Instalação do sistema operacional.
 
-🖼️ Demostração
+🖼️ Demonstração
 
 ![Instalação do Windows](../imagens/instalacao-windows.png)
 
@@ -27,9 +27,9 @@ Configuração de idioma e região.
 Verificação das atualizações.
 Configuração das principais opções do sistema.
 
-🖼️ Demostração
+🖼️ Demonstração
 
-![Instalação do Windows](../imagens/instalacao-windows.png)
+![Instalação do Windows](../imagens/configuração-inicial.png)
 
 4. Instalação de drivers
 
@@ -41,9 +41,9 @@ Identificação de drivers ausentes.
 Instalação e atualização dos drivers.
 Teste dos dispositivos.
 
-🖼️ Demostração
+🖼️ Demonstração
 
-![Instalação do Windows](../imagens/instalacao-windows.png)
+![Instalação do Windows](../imagens/GerenciadordeDispositivos.png)
 
 5. Instalação de softwares
 
