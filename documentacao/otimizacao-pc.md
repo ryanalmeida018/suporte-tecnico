@@ -18,11 +18,9 @@ Programas iniciados com o Windows.
 
 É realizada uma análise dos programas configurados para iniciar automaticamente com o sistema.
 
-🖼️ Print
+🖼️ Demonstração
 
-Inserir aqui um print do Gerenciador de Tarefas → Aplicativos de Inicialização.
-
-[ PRINT AQUI ]
+![Otimizacao do Windows](../imagens/gerenciador-de-tarefas.png)
 
 3. Limpeza e organização
 
