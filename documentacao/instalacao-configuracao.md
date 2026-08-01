@@ -12,11 +12,10 @@ Inicialização pela mídia de instalação.
 Seleção das opções de instalação.
 Configuração das partições quando necessário.
 Instalação do sistema operacional.
-🖼️ Print
 
-Inserir aqui um print da instalação do Windows.
+🖼️ Demostração
 
-[ PRINT AQUI ]
+![Instalação do Windows](../imagens/instalacao-windows.png)
 
 3. Configuração inicial
 
