@@ -12,8 +12,3 @@ Verificação do computador.
 Backup de arquivos importantes.
 Preparação da mídia de instalação.
 Verificação dos componentes e periféricos.
-🖼️ Print
-
-Inserir aqui o print da etapa de preparação.
-
-[ PRINT AQUI ]
